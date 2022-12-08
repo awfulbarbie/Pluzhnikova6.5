@@ -1,0 +1,17 @@
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\bin\Debug\net6.0-windows\lab6.4(graph).exe
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\bin\Debug\net6.0-windows\lab6.4(graph).deps.json
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\bin\Debug\net6.0-windows\lab6.4(graph).runtimeconfig.json
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\bin\Debug\net6.0-windows\lab6.4(graph).dll
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\bin\Debug\net6.0-windows\lab6.4(graph).pdb
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6._4_graph_.Form1.resources
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).csproj.GenerateResource.cache
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).AssemblyInfoInputs.cache
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).AssemblyInfo.cs
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).dll
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\refint\lab6.4(graph).dll
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).pdb
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\lab6.4(graph).genruntimeconfig.cache
+D:\Учебная практика\Задание 6\lab6.4(graph)\lab6.4(graph)\obj\Debug\net6.0-windows\ref\lab6.4(graph).dll
